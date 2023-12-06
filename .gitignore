@@ -1,5 +1,9 @@
 web/.env
+web/.env.prod
+
 venv
 __pycache__/
 
 web/db.sqlite3
+
+.kube/
